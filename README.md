@@ -37,14 +37,14 @@ Run the game:
 
 3.On each turn, the player chooses:
 
-*Whether to shoot "em si" (yourself) or "oponente" (your opponent)
+ * Whether to shoot "em si" (yourself) or "oponente" (your opponent)
 
-*A chamber number to fire
+ * A chamber number to fire
 
-*If the chamber is loaded:
+ * If the chamber is loaded:
    The target dies, and the game ends.
 
-*If not:
+ * If not:
    The game continues to the next turn.
 
 4.If you chose "em si", you get an extra turn next round.
