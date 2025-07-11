@@ -59,7 +59,7 @@ Gunshot.mp3 – Gunshot sound
 
 Make sure these files are valid and not empty. Otherwise, pygame will throw a runtime error.
 
-##🧠 Strategy Hint
+## 🧠 Strategy Hint
 Shooting yourself can be a risk, but if you survive, you get an extra turn.
 
 The chance of death is always displayed — use it wisely.
