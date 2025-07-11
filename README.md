@@ -33,7 +33,7 @@ Run the game:
   * Total number of chambers
   * Number of loaded chambers
   * Death probability (%)
-  * Loaded chambers (After end game only)
+  * Loaded chambers (After game's end only)
 
 3.On each turn, the player chooses:
 
