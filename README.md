@@ -71,4 +71,4 @@ João Vitor de Oliveira Lima
 
 📧 ghostcode541@gmail.com
 
-🔗 [LinkedIn](www.linkedin.com/in/joãovitordeoliveira-lima)
+🔗 [LinkedIn](www.linkedin.com/in/joãovitordeoliveira-lima) --> www.linkedin.com/in/joãovitordeoliveira-lima
