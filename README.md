@@ -68,5 +68,7 @@ The chance of death is always displayed — use it wisely.
 ## 👤 Author
 
 João Vitor de Oliveira Lima
+
 📧 ghostcode541@gmail.com
+
 🔗 [LinkedIn](www.linkedin.com/in/joãovitordeoliveira-lima)
