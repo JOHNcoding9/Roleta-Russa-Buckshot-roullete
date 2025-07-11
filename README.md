@@ -26,6 +26,7 @@
 ## 🎮 How to Play
 
 Run the game:
+
 1.Enter player names when prompted.
 
 2.The game will display:
