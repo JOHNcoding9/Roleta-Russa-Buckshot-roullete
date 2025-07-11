@@ -63,3 +63,10 @@ Make sure these files are valid and not empty. Otherwise, pygame will throw a ru
 Shooting yourself can be a risk, but if you survive, you get an extra turn.
 
 The chance of death is always displayed — use it wisely.
+
+
+## 👤 Author
+
+João Vitor de Oliveira Lima
+📧 ghostcode541@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/joãovitordeoliveira-lima)
